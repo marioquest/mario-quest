@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mario&#39;s Quest</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mario&#39;s Quest</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2026 08:04:32 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who Am I</title>
+      <link>http://localhost:1313/posts/who-am-i/</link>
+      <pubDate>Mon, 18 May 2026 08:04:32 +0000</pubDate>
+      <guid>http://localhost:1313/posts/who-am-i/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m &lt;strong&gt;Mario Santos-Ramos&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;By day, I&amp;rsquo;m an &lt;strong&gt;Art Lead&lt;/strong&gt; for Candy Crush Soda Saga. I juggle people leadership, art direction, and project management, making sure our artists deliver the features that make the Candy franchise so fun to play for millions of players around the world.&lt;/p&gt;
+&lt;p&gt;By night (and weekends), I&amp;rsquo;m a &lt;strong&gt;dad, a singer, a maker, and overall, a giant dork&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This site is my little corner where I document my personal quests:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Hi, I&rsquo;m <strong>Mario Santos-Ramos</strong>.</p>
+<p>By day, I&rsquo;m an <strong>Art Lead</strong> for Candy Crush Soda Saga. I juggle people leadership, art direction, and project management, making sure our artists deliver the features that make the Candy franchise so fun to play for millions of players around the world.</p>
+<p>By night (and weekends), I&rsquo;m a <strong>dad, a singer, a maker, and overall, a giant dork</strong>.</p>
+<p>This site is my little corner where I document my personal quests:</p>
+<ul>
+<li><strong>Building Mechanical Keyboards:</strong> From lubing switches to custom builds.</li>
+<li><strong>Refurbs and mods:</strong> Fixing, restoring and modding damaged GameBoys, GBAs, PSPs and other consoles/handhelds.</li>
+<li><strong>Pixel and Retro Art:</strong> Just exploring some art that has absolutely <em><strong>NOTHING</strong></em> to do with my work.</li>
+<li><strong>Feared, Music and Voice Over work:</strong> Updates on any musical projects that I might be involved in, cool new bands I&rsquo;ve been listening to or simply sharing some of my VO work.</li>
+</ul>
+<p>Welcome to all of my side quests. Feel free to explore, or just say hello.</p>
+<hr>
+<p><em>Built on my Fairphone 3+ with /e/OS and using Termux because I am a stubborn idiot who thinks this is cool.</em></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
