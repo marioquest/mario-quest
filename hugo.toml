@@ -1,0 +1,34 @@
+baseURL = 'https://mario.quest/'
+languageCode = 'en-us'
+title = "Mario's Quest"
+theme = "PaperMod"
+
+# Enable the menu
+menu = { main = [] }
+
+# PaperMod specific settings
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowFullTextinRSS = true
+  ShowToc = true
+  Comments = false
+  
+  # Your Bio (appears on the homepage)
+  description = "Exploring keyboards, retro gaming, pixel art, Linux, and anything that interests me. A little digital garden."
+  
+  # Profile Image (optional - we can add this later)
+  # profileMode = { enabled = true, imageUrl = "profile.jpg", title = "Mario", subtitle = "Art Lead & Maker" }
+
+# Taxonomies (Categories for your posts)
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Author info
+[author]
+  name = "Mario Santos-Ramos"
+  email = "sup@3dmar.io" # Optional: Replace with your real email if you want contact forms later
