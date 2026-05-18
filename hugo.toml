@@ -16,6 +16,7 @@ menu = { main = [] }
   ShowFullTextinRSS = true
   ShowToc = true
   Comments = false
+  mainSections = ["posts"]
   
   # Your Bio (appears on the homepage)
   description = "Exploring keyboards, retro gaming, pixel art, Linux, and anything that interests me. A little digital garden."
